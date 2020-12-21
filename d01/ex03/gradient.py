@@ -18,7 +18,6 @@ y = np.array([37.4013816, 36.1473236, 45.7655287, 46.6793434, 59.5585554])
 theta1 = np.array([2, 0.7])
 out = simple_gradient(x, y, theta1)
 print(out)
-lul(x, y, theta1)
 
 # Example 1:
 theta2 = np.array([1, -0.4])
